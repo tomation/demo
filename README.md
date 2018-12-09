@@ -1,2 +1,3 @@
-# demo
-demo to use in udemy course
+# Test repository
+
+This is a simple repository for training purposes
